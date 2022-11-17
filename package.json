@@ -1,0 +1,20 @@
+{
+    "name": "css-import-loader",
+    "version": "0.0.1",
+    "description": "auxiliary loader to support using CSS @import rules with pug-plugin",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lukaswagner/css-import-loader.git"
+    },
+    "keywords": [
+        "css",
+        "import"
+    ],
+    "author": "Lukas Wagner",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lukaswagner/css-import-loader/issues"
+    },
+    "homepage": "https://github.com/lukaswagner/css-import-loader#readme"
+}
